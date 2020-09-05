@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Author: Ali Rabiei
-# Purpose: This script backup configuration files on both local and remote 
+# Purpose: This script backup files and folders to both local and remote 
 # Creation Date: 09/05/2020
 # Last Modification Date: 09/05/2020
 
